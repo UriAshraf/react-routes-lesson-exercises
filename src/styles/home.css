@@ -13,11 +13,13 @@ input{
     border-bottom-right-radius: 0;
     border-right: none;
     color: #2c3e50;
-    vertical-align: bottom; /*aligns bottom of two divs with the same parent*/
+    /* vertical-align: bottom;  */
+    /*aligns bottom of two divs with the same parent*/
 }
 
 #button{
     background-color: #3498db;
+    margin-left: 2px;
     border: none;
     color: white;
     padding: 1vh;
